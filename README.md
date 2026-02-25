@@ -64,8 +64,8 @@ flowchart LR
 
 ## GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danieloza&show_icons=true&hide_border=true&title_color=0369a1&icon_color=0369a1&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloza&layout=compact&hide_border=true&title_color=0369a1&text_color=334155&bg_color=ffffff" alt="Top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieloza&theme=github" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieloza&theme=github" alt="Top languages" />
 </p>
 
 ## Target Roles
