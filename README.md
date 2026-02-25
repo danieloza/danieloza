@@ -10,6 +10,7 @@
   <a href="https://github.com/danieloza/DANIELOZAHUB4"><img src="https://img.shields.io/badge/Flagship-Danex%20Business%20API-0369a1?style=for-the-badge" alt="Danex Business API" /></a>
   <a href="https://github.com/danieloza/DANIELOZAHUB3"><img src="https://img.shields.io/badge/Core-SalonOS-0f766e?style=for-the-badge" alt="SalonOS" /></a>
   <a href="https://github.com/danieloza/DANIELOZAHUB2"><img src="https://img.shields.io/badge/Automation-Faktury%20Bot-9a3412?style=for-the-badge" alt="Faktury Bot" /></a>
+  <a href="https://github.com/danieloza/rag-api-starter"><img src="https://img.shields.io/badge/GenAI-RAG%20API%20Starter-14532d?style=for-the-badge" alt="RAG API Starter" /></a>
 </p>
 
 <p align="center">
@@ -32,6 +33,7 @@
 | [SalonOS](https://github.com/danieloza/DANIELOZAHUB3) | Core multi-tenant booking and visit platform (FastAPI + Telegram bot), reservation status flow, conversion integrity, reports/exports, OpenAPI contract + quality gates. |
 | [Danex Faktury Bot](https://github.com/danieloza/DANIELOZAHUB2) | Invoice automation bot with OCR pipeline, hash-based deduplication, review statuses, role-based access, retry/retention flows, and test suite. |
 | [Salon Utarg Bot](https://github.com/danieloza/DANIELOZAHUB5) | TeamOps and reporting bot integrated with SalonOS workflows (leave, shift swaps, time clock, Google Sheets reporting). |
+| [RAG API Starter](https://github.com/danieloza/rag-api-starter) | FastAPI mini-project for GenAI interviews with `/ingest`, `/ask`, `/health`, local FAISS indexing, and demo-ready setup in 2 minutes. |
 
 ## Demo In 2 Minutes
 ```powershell
@@ -41,7 +43,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\start_demo_stack.ps1 -SeedDan
 ```
 
 Open after startup:
-- `http://127.0.0.1:8001/www/status`
+- `http://127.0.0.1:8001/health`
 - `http://127.0.0.1:8001/docs`
 - `http://127.0.0.1:8000/docs`
 
