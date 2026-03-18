@@ -15,8 +15,8 @@ I specialize in building high-performance, production-grade systems where AI mee
 ## Featured Projects
 
 - **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)** - Hybrid AI inference engine combining vector retrieval with SQL synthesis
-- **[Salonos Core](https://github.com/danieloza/salonos-backend)** - Enterprise-grade SaaS backend for service operations
-- **[Danex Dashboard](https://github.com/danieloza/danex-dashboard)** - Data visualization and operations interface built with Next.js and TypeScript
+- **[Salonos Core](https://github.com/danieloza/DANIELOZAHUB3)** - Enterprise-grade SaaS backend for scheduling, reservations, and service operations
+- **[Danex Business API](https://github.com/danieloza/DANIELOZAHUB4)** - Gateway, admin, CRM, and operational API layer over SalonOS core
 
 ## Connect with me
 
