@@ -38,6 +38,6 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 
 ## Links
 
-- Portfolio: [danieloza.github.io](https://danieloza.github.io/)
+- Portfolio: [danieloza.github.io/daniel-danek-portfolio](https://danieloza.github.io/daniel-danek-portfolio/)
 - LinkedIn: [Daniel Danek](https://www.linkedin.com/in/daniel-danek-aa3853231/)
 - Email: [kontakt.danieldanek@gmail.com](mailto:kontakt.danieldanek@gmail.com)
