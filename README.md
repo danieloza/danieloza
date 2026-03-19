@@ -15,16 +15,16 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 
 ## Selected Projects
 
-- **[Danex Business API](https://github.com/danieloza/DANIELOZAHUB4)**  
+- **[Danex Business API](https://github.com/danieloza/danex-business-api)**  
   FastAPI backend for business workflows, admin operations, reporting, auth, and automation logic.
 
 - **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)**  
   Hybrid retrieval service that combines vector search with SQL-backed answers.
 
-- **[Salon Utarg Bot](https://github.com/danieloza/DANIELOZAHUB5)**  
+- **[Salon Utarg Bot](https://github.com/danieloza/salon-utarg-bot)**  
   Telegram operations bot for revenue tracking, reporting, finance workflows, and team sync.
 
-- **[Danex Faktury Bot](https://github.com/danieloza/DANIELOZAHUB2)**  
+- **[Danex Faktury Bot](https://github.com/danieloza/danex-faktury-bot)**  
   Invoice-processing Telegram bot with OCR flow, duplicate protection, and review states.
 
 ## Stack
