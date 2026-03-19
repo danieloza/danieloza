@@ -1,24 +1,43 @@
 # Hi, I'm Daniel Danek
 
-### Systems Engineer | AI Infrastructure & Backend Architect
+### Backend Engineer | Python, FastAPI, AI Integrations
 
-I specialize in building high-performance, production-grade systems where AI meets robust software engineering. My focus is on hybrid RAG architectures, scalable Python backends, and cloud-native delivery patterns.
+I build backend systems in Python with a focus on business APIs, automation, and practical AI features.
+My strongest work sits at the intersection of classic backend engineering and operator-facing tooling:
+APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services.
 
-## Technical Arsenal
+## Current Focus
 
-- Languages: Python, SQL, TypeScript, Bash, Go
-- AI/ML: RAG, LangChain, Langfuse, LLM inference, vector databases
-- Backend: FastAPI, SQLAlchemy 2.0, Pydantic, Redis
-- DevOps: Docker, GitHub Actions, Prometheus, Sentry
-- Engineering: spec-driven development, SOLID, security-by-design
+- Python backend roles
+- FastAPI and SQLAlchemy services
+- AI integrations and RAG-style workflows
+- Business automation and internal tools
 
-## Featured Projects
+## Selected Projects
 
-- **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)** - Hybrid AI inference engine combining vector retrieval with SQL synthesis
-- **[Salonos Core](https://github.com/danieloza/DANIELOZAHUB3)** - Enterprise-grade SaaS backend for scheduling, reservations, and service operations
-- **[Danex Business API](https://github.com/danieloza/DANIELOZAHUB4)** - Gateway, admin, CRM, and operational API layer over SalonOS core
+- **[Danex Business API](https://github.com/danieloza/DANIELOZAHUB4)**  
+  FastAPI backend for business workflows, admin operations, reporting, auth, and automation logic.
 
-## Connect with me
+- **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)**  
+  Hybrid retrieval service that combines vector search with SQL-backed answers.
 
+- **[Salon Utarg Bot](https://github.com/danieloza/DANIELOZAHUB5)**  
+  Telegram operations bot for revenue tracking, reporting, finance workflows, and team sync.
+
+- **[Danex Faktury Bot](https://github.com/danieloza/DANIELOZAHUB2)**  
+  Invoice-processing Telegram bot with OCR flow, duplicate protection, and review states.
+
+## Stack
+
+- Python, SQL, TypeScript, Bash
+- FastAPI, Pydantic, SQLAlchemy
+- SQLite, PostgreSQL
+- Docker, GitHub Actions
+- RAG pipelines, FAISS, LLM integrations
+- Telegram bot automation
+
+## Links
+
+- Portfolio: [danieloza.github.io](https://danieloza.github.io/)
 - LinkedIn: [Daniel Danek](https://www.linkedin.com/in/daniel-danek-aa3853231/)
-- Email: kontakt.danieldanek@gmail.com
+- Email: [kontakt.danieldanek@gmail.com](mailto:kontakt.danieldanek@gmail.com)
