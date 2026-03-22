@@ -15,6 +15,9 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 
 ## Selected Projects
 
+- **[Automation Control Plane](https://github.com/danieloza/automation-control-plane)**  
+  Backend-first FastAPI control layer for automation workflows with tenant auth, approval queues, usage limits, execution audit logs, and an operator dashboard.
+
 - **[agent-intel-mcp](https://github.com/danieloza/agent-intel-mcp)**  
   OpenAI-powered MCP server and demo dashboard for extracting agent-engineering patterns from GitHub repositories and proposing safe AGENTS.md improvements.
 
