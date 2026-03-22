@@ -15,6 +15,9 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 
 ## Selected Projects
 
+- **[Brand Insight Engine](https://github.com/danieloza/brand-insight-engine)**  
+  Feedback intelligence pipeline that turns public customer feedback and competitor mentions into structured product and marketing insights.
+
 - **[Danex Business API](https://github.com/danieloza/danex-business-api)**  
   FastAPI backend for business workflows, admin operations, reporting, auth, and automation logic.
 
