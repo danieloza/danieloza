@@ -15,6 +15,9 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 
 ## Selected Projects
 
+- **[agent-intel-mcp](https://github.com/danieloza/agent-intel-mcp)**  
+  OpenAI-powered MCP server and demo dashboard for extracting agent-engineering patterns from GitHub repositories and proposing safe AGENTS.md improvements.
+
 - **[Brand Insight Engine](https://github.com/danieloza/brand-insight-engine)**  
   Feedback intelligence pipeline that turns public customer feedback and competitor mentions into structured product and marketing insights.
 
