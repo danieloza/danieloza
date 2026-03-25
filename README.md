@@ -1,28 +1,22 @@
 # Hi, I'm Daniel Danek
 
-### Backend Engineer | Python, FastAPI, AI Integrations
+### Systems Engineer | Python, FastAPI, MCP, AI Runtime Infrastructure
 
-I build backend systems in Python with a focus on business APIs, automation, and practical AI features.
-My strongest work sits at the intersection of classic backend engineering and operator-facing tooling:
-APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services.
+I build backend systems in Python with a focus on AI runtime infrastructure, business APIs, and operator-facing tooling.
+My strongest work sits where backend engineering meets control layers for AI systems:
+runtime governance, MCP-aware services, approvals, traces, automation, and practical AI integrations.
 
 ## Current Focus
 
-- Python backend roles
-- FastAPI and SQLAlchemy services
-- AI integrations and RAG-style workflows
-- Business automation and internal tools
+- Python backend and platform roles
+- FastAPI, SQLAlchemy, and distributed runtime services
+- MCP, AI control planes, and RAG workflows
+- Business automation and internal tooling
 
 ## Selected Projects
 
-- **[Automation Control Plane](https://github.com/danieloza/automation-control-plane)**  
-  Backend-first FastAPI control layer for automation workflows with tenant auth, approval queues, usage limits, execution audit logs, and an operator dashboard.
-
-- **[agent-intel-mcp](https://github.com/danieloza/agent-intel-mcp)**  
-  OpenAI-powered MCP server and demo dashboard for extracting agent-engineering patterns from GitHub repositories and proposing safe AGENTS.md improvements.
-
-- **[Brand Insight Engine](https://github.com/danieloza/brand-insight-engine)**  
-  Feedback intelligence pipeline that turns public customer feedback and competitor mentions into structured product and marketing insights.
+- **[Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower)**  
+  FastAPI control tower for AI agents with policy enforcement, approval routing, incidents, PostgreSQL-backed history, and Redis-backed runtime state.
 
 - **[Danex Business API](https://github.com/danieloza/danex-business-api)**  
   FastAPI backend for business workflows, admin operations, reporting, auth, and automation logic.
@@ -30,20 +24,20 @@ APIs, reporting, background jobs, Telegram bots, and retrieval-based AI services
 - **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)**  
   Hybrid retrieval service that combines vector search with SQL-backed answers.
 
-- **[Salon Utarg Bot](https://github.com/danieloza/salon-utarg-bot)**  
-  Telegram operations bot for revenue tracking, reporting, finance workflows, and team sync.
+- **[Automation Control Plane](https://github.com/danieloza/automation-control-plane)**  
+  Multi-tenant FastAPI control plane for approvals, workflow governance, quotas, and audit-friendly execution logs.
 
-- **[Danex Faktury Bot](https://github.com/danieloza/danex-faktury-bot)**  
-  Invoice-processing Telegram bot with OCR flow, duplicate protection, and review states.
+- **[Agent Intel MCP](https://github.com/danieloza/agent-intel-mcp)**  
+  OpenAI-powered MCP server for repository analysis, agent-engineering pattern mining, and safe AGENTS.md patch generation.
 
 ## Stack
 
 - Python, SQL, TypeScript, Bash
 - FastAPI, Pydantic, SQLAlchemy
-- SQLite, PostgreSQL
+- SQLite, PostgreSQL, Redis
 - Docker, GitHub Actions
-- RAG pipelines, FAISS, LLM integrations
-- Telegram bot automation
+- MCP servers, agent runtime governance, RAG pipelines
+- LLM integrations, automation, operator-facing tooling
 
 ## Links
 
