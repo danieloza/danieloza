@@ -1,46 +1,63 @@
-# Hi, I'm Daniel Danek
+<div align="center">
 
-### Systems Engineer | Python, FastAPI, MCP, AI Runtime Infrastructure
+# Daniel Danek
 
-I build backend systems in Python with a focus on AI runtime infrastructure, business APIs, and operator-facing tooling.
-My strongest work sits where backend engineering meets control layers for AI systems:
-runtime governance, MCP-aware services, approvals, traces, automation, and practical AI integrations.
+### Systems Engineer for AI Runtime, MCP, and Backend Control Layers
 
-## Current Focus
+I build Python systems that sit around AI products, not just on top of them:
+runtime governance, incident review, regression tooling, security gateways,
+local inference planning, and practical FastAPI backends.
 
-- Python backend and platform roles
-- FastAPI, SQLAlchemy, and distributed runtime services
-- MCP, AI control planes, and RAG workflows
-- Business automation and internal tooling
+[Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) •
+[LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) •
+[Email](mailto:kontakt.danieldanek@gmail.com)
 
-## Selected Projects
+</div>
 
-- **[Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower)**  
-  FastAPI control tower for AI agents with policy enforcement, approval routing, incidents, PostgreSQL-backed history, and Redis-backed runtime state.
+---
 
-- **[Danex Business API](https://github.com/danieloza/danex-business-api)**  
-  FastAPI backend for business workflows, admin operations, reporting, auth, and automation logic.
+## What I Build
 
-- **[Danex RAG Service](https://github.com/danieloza/danex-rag-service)**  
-  Hybrid retrieval service that combines vector search with SQL-backed answers.
+- Control planes for AI agents and workflow execution
+- MCP-aware backend services, tool governance, and approval routing
+- Incident review and regression tooling for AI systems
+- FastAPI services with PostgreSQL, Redis, SQL, and operator-facing flows
+- Practical developer tools around local inference and runtime decision-making
 
-- **[Automation Control Plane](https://github.com/danieloza/automation-control-plane)**  
-  Multi-tenant FastAPI control plane for approvals, workflow governance, quotas, and audit-friendly execution logs.
+## Flagship Projects
 
-- **[Agent Intel MCP](https://github.com/danieloza/agent-intel-mcp)**  
-  OpenAI-powered MCP server for repository analysis, agent-engineering pattern mining, and safe AGENTS.md patch generation.
+### [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower)
+FastAPI control tower for AI agents with policy enforcement, approval routing,
+execution traces, incidents, PostgreSQL-backed history, and Redis-backed runtime state.
+
+### [LLM Incident Review Console](https://github.com/danieloza/llm-incident-review-console)
+FastAPI incident console for AI failures with timeline evidence, replay previews,
+mitigation planning, and grounded review across agent and RAG systems.
+
+### [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway)
+Security-focused FastAPI gateway for MCP servers with deterministic policy checks,
+approval escalation, redacted audit logs, and incident creation.
+
+### [Inference Readiness Advisor](https://github.com/danieloza/inference-readiness-advisor)
+Hardware-aware CLI for planning local LLM inference across runtimes,
+quantizations, workload scenarios, and hosted-vs-local decision paths.
+
+## Current Direction
+
+- Python backend and AI infrastructure roles
+- FastAPI, SQL, PostgreSQL, Redis, Docker
+- MCP servers, control layers, policy enforcement, runtime safety
+- Regression analysis, incident review, and operator tooling
+- Practical AI systems with strong backend and systems focus
 
 ## Stack
 
-- Python, SQL, TypeScript, Bash
-- FastAPI, Pydantic, SQLAlchemy
-- SQLite, PostgreSQL, Redis
-- Docker, GitHub Actions
-- MCP servers, agent runtime governance, RAG pipelines
-- LLM integrations, automation, operator-facing tooling
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `SQLite` `Docker`
+`GitHub Actions` `MCP` `RAG` `LangChain` `FAISS` `REST APIs` `Pytest`
 
-## Links
+## Working Style
 
-- Portfolio: [danieloza.github.io/daniel-danek-portfolio](https://danieloza.github.io/daniel-danek-portfolio/)
-- LinkedIn: [Daniel Danek](https://www.linkedin.com/in/daniel-danek-aa3853231/)
-- Email: [kontakt.danieldanek@gmail.com](mailto:kontakt.danieldanek@gmail.com)
+I am strongest in systems that need clear control surfaces:
+approval flows, runtime visibility, auditability, failure handling,
+and backend logic that stays understandable as the product grows.
+
