@@ -4,13 +4,16 @@
 
 ### Systems Engineer for AI Runtime, MCP, and Backend Control Layers
 
-I build Python systems that sit around AI products, not just on top of them:
-runtime governance, incident review, regression tooling, security gateways,
-local inference planning, and practical FastAPI backends.
+I build practical Python systems around AI products: runtime governance, MCP-aware services, incident review, regression tooling, security gateways, and local inference planning.
 
-[Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) •
-[Email](mailto:kontakt.danieldanek@gmail.com)
+[Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) • [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) • [Email](mailto:kontakt.danieldanek@gmail.com)
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-Systems%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20Control%20Planes-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Aware%20Platforms-111827?style=for-the-badge)
+![AI Runtime](https://img.shields.io/badge/AI%20Runtime-Observability%20%26%20Safety-7C3AED?style=for-the-badge)
 
 </div>
 
@@ -18,46 +21,41 @@ local inference planning, and practical FastAPI backends.
 
 ## What I Build
 
-- Control planes for AI agents and workflow execution
-- MCP-aware backend services, tool governance, and approval routing
-- Incident review and regression tooling for AI systems
-- FastAPI services with PostgreSQL, Redis, SQL, and operator-facing flows
-- Practical developer tools around local inference and runtime decision-making
+- AI runtime control planes with approvals, incidents, traces, and operator workflows
+- MCP-aware backend services with tool governance, policy checks, and safe execution paths
+- Incident review and regression tooling for agent systems and RAG-style backends
+- FastAPI backends with PostgreSQL, Redis, SQL, Docker, and deployment-minded structure
+- Practical inference tooling that helps teams choose local-vs-hosted runtime strategies
 
 ## Flagship Projects
 
-### [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower)
-FastAPI control tower for AI agents with policy enforcement, approval routing,
-execution traces, incidents, PostgreSQL-backed history, and Redis-backed runtime state.
+| Project | What it proves |
+| --- | --- |
+| [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower) | FastAPI control tower for AI agents with policy enforcement, approval routing, PostgreSQL-backed history, Redis-backed state, and incident-aware execution. |
+| [LLM Incident Review Console](https://github.com/danieloza/llm-incident-review-console) | Operator-facing review console for AI failures with evidence timelines, replay previews, mitigation planning, and grounded incident analysis. |
+| [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
+| [Inference Readiness Advisor](https://github.com/danieloza/inference-readiness-advisor) | Hardware-aware CLI for planning local inference across runtimes, quantizations, scenarios, and hosted-vs-local decision paths. |
+| [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | Evaluation backend for scenario-based agent regressions with run diffs, replay previews, and safer iteration loops. |
 
-### [LLM Incident Review Console](https://github.com/danieloza/llm-incident-review-console)
-FastAPI incident console for AI failures with timeline evidence, replay previews,
-mitigation planning, and grounded review across agent and RAG systems.
+## Focus Areas
 
-### [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway)
-Security-focused FastAPI gateway for MCP servers with deterministic policy checks,
-approval escalation, redacted audit logs, and incident creation.
+```text
+Python backend engineering
+FastAPI and REST APIs
+PostgreSQL, Redis, SQLite
+MCP servers and control surfaces
+AI runtime safety and observability
+Incident review and regression tooling
+Local inference planning and developer tools
+```
 
-### [Inference Readiness Advisor](https://github.com/danieloza/inference-readiness-advisor)
-Hardware-aware CLI for planning local LLM inference across runtimes,
-quantizations, workload scenarios, and hosted-vs-local decision paths.
-
-## Current Direction
-
-- Python backend and AI infrastructure roles
-- FastAPI, SQL, PostgreSQL, Redis, Docker
-- MCP servers, control layers, policy enforcement, runtime safety
-- Regression analysis, incident review, and operator tooling
-- Practical AI systems with strong backend and systems focus
-
-## Stack
+## Current Stack
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `SQLite` `Docker`
-`GitHub Actions` `MCP` `RAG` `LangChain` `FAISS` `REST APIs` `Pytest`
+`GitHub Actions` `Pytest` `MCP` `RAG` `FAISS` `LangChain` `REST APIs`
 
 ## Working Style
 
-I am strongest in systems that need clear control surfaces:
-approval flows, runtime visibility, auditability, failure handling,
-and backend logic that stays understandable as the product grows.
+I am strongest in systems that need clear control surfaces: approval flows, runtime visibility, auditability, failure handling, and backend logic that stays understandable as the product grows.
 
+I optimize for software that is useful in production-adjacent settings, easy to reason about, and structured well enough to evolve without collapsing into chaos.
