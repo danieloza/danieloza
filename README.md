@@ -31,11 +31,12 @@ I build practical Python systems around AI products: runtime governance, MCP-awa
 
 | Project | What it proves |
 | --- | --- |
+| [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing FastAPI control plane for AI runs with approvals, incidents, replay compare, trace graphs, eval scorecards, and queue ownership workflows. |
 | [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower) | FastAPI control tower for AI agents with policy enforcement, approval routing, PostgreSQL-backed history, Redis-backed state, and incident-aware execution. |
 | [LLM Incident Review Console](https://github.com/danieloza/llm-incident-review-console) | Operator-facing review console for AI failures with evidence timelines, replay previews, mitigation planning, and grounded incident analysis. |
 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
 | [Inference Readiness Advisor](https://github.com/danieloza/inference-readiness-advisor) | Hardware-aware CLI for planning local inference across runtimes, quantizations, scenarios, and hosted-vs-local decision paths. |
-| [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | Evaluation backend for scenario-based agent regressions with run diffs, replay previews, and safer iteration loops. |
+| [Agent Runtime Visualizer](https://github.com/danieloza/agent-runtime-visualizer) | Interactive operator cockpit for scenario launches, approval routing, incidents, trust boundaries, and review-ready runtime storytelling. |
 
 ## Focus Areas
 
