@@ -6,7 +6,7 @@
 
 I build practical Python systems around AI products: runtime governance, retrieval backends, agent workflows, operator tooling, security gateways, and production-oriented backend services.
 
-[Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) • [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) • [Email](mailto:kontakt.danieldanek@gmail.com)
+[Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) | [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) | [Email](mailto:kontakt.danieldanek@gmail.com)
 
 <br />
 
@@ -34,8 +34,9 @@ I build practical Python systems around AI products: runtime governance, retriev
 | [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing FastAPI control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and reliability notes. |
 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Product-style hybrid RAG service with ingestion, route transparency, citations with scoring, query history, evaluation summary, and knowledge-base management. |
 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
-| [Agent Runtime Visualizer](https://github.com/danieloza/agent-runtime-visualizer) | Operator cockpit for scenario launches, approval routing, incidents, trust boundaries, and review-ready runtime storytelling. |
-| [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower) | FastAPI control tower for AI agents with policy enforcement, approval routing, PostgreSQL-backed history, Redis-backed state, and incident-aware execution. |
+| [AgentOps Control Hub](https://github.com/danieloza/agentops-control-hub) | Premium React/TypeScript product surface for AI agent governance, approvals, audit logs, observability, risk scoring, and evaluation workflows. |
+| [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Local-first observability dashboard for AI-assisted engineering workflows with sessions, risk signals, verification, and cost visibility. |
+| [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | FastAPI evaluation backend for agent regressions with scenario registries, run diffs, and safe replay previews. |
 
 ## Focus Areas
 
@@ -53,6 +54,7 @@ Incident review and operator tooling
 
 `Python` `FastAPI` `SQLAlchemy` `SQLite` `Docker`
 `Pytest` `RAG` `FAISS` `LangChain` `REST APIs` `MCP`
+`TypeScript` `React` `Tailwind CSS`
 
 ## Working Style
 
