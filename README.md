@@ -2,9 +2,11 @@
 
 # Daniel Danek
 
-### AI / Python Engineer for RAG, Agent Systems, and Backend Control Layers
+### Python/FastAPI Engineer for Practical GenAI Backend Systems
 
-I build practical Python systems around AI products: runtime governance, retrieval backends, agent workflows, operator tooling, security gateways, and production-oriented backend services.
+I build practical Python/FastAPI backend systems around AI: RAG pipelines, agent workflows, secure tool access, approvals, audit logs, observability, evaluation, and operator-facing control layers.
+
+My experience combines real-world internal business engineering for Salon Fryzjerski Danex with independent production-shaped GenAI/backend projects. I do not present this as traditional enterprise employment; it is hands-on engineering with real users, feedback, business constraints, and maintained systems.
 
 [Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) | [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) | [Email](mailto:kontakt.danieldanek@gmail.com)
 
@@ -27,6 +29,14 @@ I build practical Python systems around AI products: runtime governance, retriev
 - FastAPI backends with SQL, Docker, testing, and production-minded structure
 - Operator-facing internal tools instead of one-shot AI demos
 
+## Real-World Internal Business Engineering
+
+**Internal Salon Operations Platform - Salon Fryzjerski Danex**
+
+I built and maintain backend and automation systems for a real family-run salon business, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
+
+This work is not traditional enterprise employment, but it is real-world engineering: real user, real operational needs, direct feedback, maintenance responsibility, and business constraints.
+
 ## Flagship Projects
 
 | Project | What it proves |
@@ -34,8 +44,8 @@ I build practical Python systems around AI products: runtime governance, retriev
 | [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing FastAPI control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and reliability notes. |
 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Product-style hybrid RAG service with ingestion, route transparency, citations with scoring, query history, evaluation summary, and knowledge-base management. |
 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
+| [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Local-first observability dashboard for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
 | [AgentOps Control Hub](https://github.com/danieloza/agentops-control-hub) | Premium React/TypeScript product surface for AI agent governance, approvals, audit logs, observability, risk scoring, and evaluation workflows. |
-| [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Local-first observability dashboard for AI-assisted engineering workflows with sessions, risk signals, verification, and cost visibility. |
 | [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | FastAPI evaluation backend for agent regressions with scenario registries, run diffs, and safe replay previews. |
 
 ## Focus Areas
@@ -47,7 +57,8 @@ SQL, SQLite, PostgreSQL concepts
 RAG pipelines and ingestion
 Agent workflows and control surfaces
 AI runtime safety and observability
-Incident review and operator tooling
+Approvals, audit logs, governance
+Operator-facing internal tools
 ```
 
 ## Current Stack
