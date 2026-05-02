@@ -6,7 +6,7 @@
 
 I build practical Python/FastAPI backend systems around AI: RAG pipelines, agent workflows, secure tool access, approvals, audit logs, observability, evaluation, and operator-facing control layers.
 
-My experience combines real-world internal business engineering for Salon Fryzjerski Danex with independent production-shaped GenAI/backend projects. I do not present this as traditional enterprise employment; it is hands-on engineering with real users, feedback, business constraints, and maintained systems.
+My experience combines real-world internal business engineering for Danex Hair Salon with independent production-shaped GenAI/backend projects. I do not present this as traditional enterprise employment; it is hands-on engineering with real users, feedback, business constraints, and maintained systems.
 
 [Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) | [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) | [Email](mailto:kontakt.danieldanek@gmail.com)
 
@@ -31,7 +31,7 @@ My experience combines real-world internal business engineering for Salon Fryzje
 
 ## Real-World Internal Business Engineering
 
-**Internal Salon Operations Platform - Salon Fryzjerski Danex**
+**Internal Salon Operations Platform - Danex Hair Salon**
 
 I built and maintain backend and automation systems for a real family-run salon business, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
 
