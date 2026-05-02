@@ -35,6 +35,8 @@ My experience combines real-world internal business engineering for Danex Hair S
 
 I built and maintain backend and automation systems for a real family-run salon business, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
 
+I also designed and published the salon's public website: [www.salondanex.pl](https://www.salondanex.pl).
+
 This work is not traditional enterprise employment, but it is real-world engineering: real user, real operational needs, direct feedback, maintenance responsibility, and business constraints.
 
 ## Flagship Projects
