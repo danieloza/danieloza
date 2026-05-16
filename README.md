@@ -47,8 +47,8 @@ This work is not traditional enterprise employment, but it is real-world enginee
 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Product-style hybrid RAG service with ingestion, route transparency, citations with scoring, query history, evaluation summary, and knowledge-base management. |
 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
 | [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Local-first observability dashboard for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
+| [Agentic 3D Asset Studio](https://github.com/danieloza/agentic-3d-asset-studio) | Local-first AI workflow platform for 3D asset generation with FastAPI, React, GLB preview, provider abstraction, metadata, quality reports, quality gates, run replay, observability, storage inspection, and agent-ready API endpoints. |
 | [AgentOps Control Hub](https://github.com/danieloza/agentops-control-hub) | Premium React/TypeScript product surface for AI agent governance, approvals, audit logs, observability, risk scoring, and evaluation workflows. |
-| [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | FastAPI evaluation backend for agent regressions with scenario registries, run diffs, and safe replay previews. |
 
 ## Focus Areas
 
