@@ -33,8 +33,10 @@ My experience combines real-world internal business engineering through DANIELOZ
 
 | Period | Focus |
 | --- | --- |
-| Oct 2022 - Present | Independent Python/FastAPI backend and AI systems work: RAG services, agent workflows, tool governance, observability, and operator-facing control planes. |
+| Aug 2021 - Sep 2022 | IT operations, reporting, customer-facing support, ticketing workflows, SQL basics, and internal technical processes. |
+| Oct 2022 - Oct 2023 | Enterprise IT automation, chatbot-related solutions, SQL/API-style workflows, documentation, troubleshooting, and team-based technical delivery. |
 | Nov 2023 - Feb 2024 | AI automation prototypes and business workflow systems, including Brand Insight Engine and Automation Control Plane. |
+| Mar 2024 - Mar 2025 | Team-based AI backend and internal agent-style workflow systems: controlled tool access, approvals, audit logs, observability, and human-in-the-loop review. |
 | Apr 2025 - Present | DANIELOZA.AI backend and AI automation work for small and mid-sized businesses around Wroclaw, including Danex operations tooling, reporting, invoice workflows, Telegram operations, exports, backups, and AI/OCR-assisted processing. |
 
 ## Real-World Internal Business Engineering
