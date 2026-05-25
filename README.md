@@ -6,7 +6,7 @@
 
 I build practical Python/FastAPI backend systems around AI: RAG pipelines, agent workflows, secure tool access, approvals, audit logs, observability, evaluation, and operator-facing control layers.
 
-My experience combines real-world internal business engineering, independent production-shaped GenAI/backend projects, and AI automation work across internal workflow domains. The common thread is backend systems that are reviewable, auditable, secure, and useful in practical business operations.
+My experience combines real-world internal business engineering through DANIELOZA.AI, independent production-shaped GenAI/backend projects, and AI automation work across internal workflow domains. The common thread is backend systems that are reviewable, auditable, secure, and useful in practical business operations.
 
 [Portfolio](https://danieloza.github.io/daniel-danek-portfolio/) | [LinkedIn](https://www.linkedin.com/in/daniel-danek-aa3853231/) | [Email](mailto:kontakt.danieldanek@gmail.com)
 
@@ -35,15 +35,15 @@ My experience combines real-world internal business engineering, independent pro
 | --- | --- |
 | Oct 2022 - Present | Independent Python/FastAPI backend and AI systems work: RAG services, agent workflows, tool governance, observability, and operator-facing control planes. |
 | Nov 2023 - Feb 2024 | AI automation prototypes and business workflow systems, including Brand Insight Engine and Automation Control Plane. |
-| Nov 2024 - Present | Internal business operations platform work for appointment workflows, invoice handling, reporting, revenue tracking, Telegram operations, CSV/PDF exports, backups, and practical AI/OCR-assisted processing. |
+| Apr 2025 - Present | DANIELOZA.AI backend and AI automation work for small and mid-sized businesses around Wroclaw, including Danex operations tooling, reporting, invoice workflows, Telegram operations, exports, backups, and AI/OCR-assisted processing. |
 
 ## Real-World Internal Business Engineering
 
 **Internal Salon Operations Platform**
 
-I built and maintain backend and automation systems for a real family-run service business, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
+Through DANIELOZA.AI, I build and maintain backend and automation systems for Danex and other small to mid-sized local service businesses, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
 
-I also designed and published the salon's public website: [www.salondanex.pl](https://www.salondanex.pl).
+I also designed and published the Danex public website: [www.salondanex.pl](https://www.salondanex.pl).
 
 This is real-world engineering with real users, operational needs, direct feedback, maintenance responsibility, and business constraints.
 
