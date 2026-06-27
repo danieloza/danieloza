@@ -49,18 +49,28 @@ I also designed and published the Danex public website: [www.salondanex.pl](http
 
 This is real-world engineering with real users, operational needs, direct feedback, maintenance responsibility, and business constraints.
 
-## Flagship Projects
+## Portfolio Hierarchy
 
-| Project | What it proves |
+Start here if you are reviewing my GitHub for backend, AI governance, RAG, and agent-safety work.
+
+| Rank | Project | Why it matters |
+| --- | --- | --- |
+| 1 | [Regulated AI Agent Platform](https://github.com/danieloza/regulated-ai-agent-platform) | Main flagship project. A regulated AI assistant platform with source-bound RAG, scoped tools, policy checks, approvals, audit logs, prompt-injection resistance, Redis rate limits, Docker, Kubernetes, and security tests. |
+| 2 | [AGIP - Agentic Governance Intelligence Platform](https://github.com/danieloza/agentic-governance-intelligence-platform) | Broader governance platform for autonomous agents: scoped access, policy simulation, approvals, redaction, incidents, regression testing, observability, and enterprise governance layers. |
+| 3 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Specialist security gateway for MCP/tool execution with deterministic policy checks, approvals, rate limits, redacted audit logs, and incident creation. |
+| 4 | [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and runtime reliability notes. |
+| 5 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Focused hybrid RAG API with ingestion, route transparency, citations, SQL-backed answers, query history, and evaluation-oriented design. |
+| 6 | [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Observability companion for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
+
+## Supporting Projects
+
+| Project | What it demonstrates |
 | --- | --- |
-| [AGIP - Agentic Governance Intelligence Platform](https://github.com/danieloza/agentic-governance-intelligence-platform) | Flagship AI governance platform for autonomous agents: scoped access, policy simulation, approvals, audit logs, redaction, incidents, regression testing, observability, inference readiness, and enterprise governance layers before agents touch business systems. |
-| [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Security-first FastAPI gateway for MCP servers with deterministic policy checks, approvals, redacted audit logs, and incident creation. |
+| [Agent Governance Gateway](https://github.com/danieloza/agent-governance-gateway) | Focused gateway with registration, human approval, short-lived scoped tokens, revocation, multi-tenant isolation, PII redaction, audit logs, policy checks, and a premium dashboard. |
 | [Automation Control Plane](https://github.com/danieloza/automation-control-plane) | Backend-first FastAPI control layer for automation workflows with tenant auth, approval queues, usage limits, audit logs, and operator review surfaces. |
-| [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing FastAPI control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and reliability notes. |
-| [Agent Governance Gateway](https://github.com/danieloza/agent-governance-gateway) | Focused governance gateway with registration, human approval, short-lived scoped tokens, revocation, multi-tenant isolation, PII redaction, audit logs, policy checks, and a premium dashboard. |
-| [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Product-style hybrid RAG service with ingestion, route transparency, citations with scoring, query history, evaluation summary, and knowledge-base management. |
-| [Brand Insight Engine](https://github.com/danieloza/brand-insight-engine) | Feedback intelligence pipeline that turns public customer feedback and market signals into structured product and marketing insights. |
-| [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Local-first observability dashboard for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
+| [Agent Runtime Control Tower](https://github.com/danieloza/agent-runtime-control-tower) | Runtime control tower with policy enforcement, approval routing, incidents, PostgreSQL-backed history, and Redis-backed runtime state. |
+| [Agent Regression Lab](https://github.com/danieloza/agent-regression-lab) | Evaluation backend for agent regressions with scenario registries, run diffs, and safe replay previews. |
+| [Inference Readiness Advisor](https://github.com/danieloza/inference-readiness-advisor) | CLI for planning local LLM inference across runtimes, quantizations, and workload scenarios. |
 
 ## Focus Areas
 
