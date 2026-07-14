@@ -45,8 +45,6 @@ My experience combines real-world internal business engineering through DANIELOZ
 
 Through DANIELOZA.AI, I build and maintain backend and automation systems for Danex and other small to mid-sized local service businesses, used in daily operations. The systems support appointment workflows, invoice handling, daily revenue tracking, reporting, Telegram-based operations, CSV/PDF exports, backup workflows, and practical AI/OCR-assisted document handling.
 
-I also designed and published the Danex public website: [www.salondanex.pl](https://www.salondanex.pl).
-
 This is real-world engineering with real users, operational needs, direct feedback, maintenance responsibility, and business constraints.
 
 ## Portfolio Hierarchy
