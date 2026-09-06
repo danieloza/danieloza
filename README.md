@@ -24,6 +24,7 @@ My experience combines real-world internal business engineering through DANIELOZ
 ## What I Build
 
 - AI governance platforms with scoped access, policy simulation, approvals, incidents, replay, traces, and operator workflows
+- Private, self-hostable AI workspaces with bring-your-own providers, project file context, and role-based collaboration
 - RAG backends with ingestion, route transparency, citations, and evaluation surfaces
 - Security and policy layers around agent/tool execution
 - FastAPI backends with SQL, Docker, testing, and production-minded structure
@@ -55,10 +56,11 @@ Start here if you are reviewing my GitHub for backend, AI governance, RAG, and a
 | --- | --- | --- |
 | 1 | [Regulated AI Agent Platform](https://github.com/danieloza/regulated-ai-agent-platform) | Main flagship project. A regulated AI assistant platform with source-bound RAG, scoped tools, policy checks, approvals, audit logs, prompt-injection resistance, Redis rate limits, Docker, Kubernetes, and security tests. |
 | 2 | [AGIP - Agentic Governance Intelligence Platform](https://github.com/danieloza/agentic-governance-intelligence-platform) | Broader governance platform for autonomous agents: scoped access, policy simulation, approvals, redaction, incidents, regression testing, observability, and enterprise governance layers. |
-| 3 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Specialist security gateway for MCP/tool execution with deterministic policy checks, approvals, rate limits, redacted audit logs, and incident creation. |
-| 4 | [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and runtime reliability notes. |
-| 5 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Focused hybrid RAG API with ingestion, route transparency, citations, SQL-backed answers, query history, and evaluation-oriented design. |
-| 6 | [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Observability companion for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
+| 3 | [MeshKeep](https://github.com/danieloza/meshkeep) | Strongest end-to-end product. A private, self-hostable AI workspace with project-scoped conversations, explicit file context, RBAC, encrypted bring-your-own-provider keys, D1/R2 persistence, usage limits, audit trails, and a revocable Windows folder-sync agent. |
+| 4 | [MCP Security Gateway](https://github.com/danieloza/mcp-security-gateway) | Specialist security gateway for MCP/tool execution with deterministic policy checks, approvals, rate limits, redacted audit logs, and incident creation. |
+| 5 | [Agent Control Plane](https://github.com/danieloza/agent-control-plane) | Operator-facing control plane for AI runs with approvals, incidents, replay compare, trace graphs, exports, and runtime reliability notes. |
+| 6 | [Danex RAG Service](https://github.com/danieloza/danex-rag-service) | Focused hybrid RAG API with ingestion, route transparency, citations, SQL-backed answers, query history, and evaluation-oriented design. |
+| 7 | [AI Workflow Observatory](https://github.com/danieloza/ai-workflow-observatory) | Observability companion for AI-assisted engineering workflows with sessions, risk signals, verification quality, and cost visibility. |
 
 ## Supporting Projects
 
@@ -87,7 +89,7 @@ Operator-facing internal tools
 
 `Python` `FastAPI` `SQLAlchemy` `SQLite` `Docker`
 `Pytest` `RAG` `FAISS` `LangChain` `REST APIs` `MCP`
-`TypeScript` `React` `Tailwind CSS`
+`TypeScript` `React` `Tailwind CSS` `Cloudflare Workers` `D1` `R2`
 
 ## Working Style
 
