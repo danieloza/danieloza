@@ -14,7 +14,7 @@ My experience combines real-world internal business engineering through DANIELOZ
 
 ![Python](https://img.shields.io/badge/Python-Systems%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20Systems-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Production%20Pipelines-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Source--bound%20Retrieval-111827?style=for-the-badge)
 ![Agent Systems](https://img.shields.io/badge/Agent%20Systems-Governance%20%26%20Safety-7C3AED?style=for-the-badge)
 
 </div>
